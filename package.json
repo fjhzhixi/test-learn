@@ -1,0 +1,10 @@
+{
+  "name": "test-learn",
+  "version": "1.0.0",
+  "dependencies": {
+    "selenium-webdriver": "4.0.0-alpha.4"
+  },
+  "devDependencies": {
+    "puppeteer": "^1.18.1"
+  }
+}
